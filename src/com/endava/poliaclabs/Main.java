@@ -1,5 +1,6 @@
 package com.endava.poliaclabs;
 
+import com.endava.poliaclabs.model.CurrencyType;
 import com.endava.poliaclabs.service.DbService;
 import com.endava.poliaclabs.service.IoService;
 

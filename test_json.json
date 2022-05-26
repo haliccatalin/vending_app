@@ -1,0 +1,27 @@
+{
+  "date": "26.05.2022",
+  "title": "AC Labs",
+  "subTitle": "Vending Machine",
+  "trainer": {
+    "name": "Catalin",
+    "job": "Developer",
+    "age": 27,
+    "languages": ["Java", "Dart", "JavaScript", "C#"],
+    "workFrom": true
+  },
+  "students": [
+    {
+      "name": "Alex",
+      "year": 2
+    },
+    {
+      "name": "Serban",
+      "year": 2,
+      "licenta": true
+    },
+    {
+      "java": true,
+      "tomorrow": "today"
+    }
+  ]
+}

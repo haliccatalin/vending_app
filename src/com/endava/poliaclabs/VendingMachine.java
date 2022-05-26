@@ -31,6 +31,8 @@ public class VendingMachine {
      */
     private TreeMap<Coin, Integer> coinStock;
 
+    // este un keyword care ii spune compilatorului ca nu trebuie sa
+    // serializeze/deserializeze obiectele
     private transient IoService ioService;
     private transient DbService dbService;
 
